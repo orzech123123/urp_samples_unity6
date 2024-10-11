@@ -36,7 +36,7 @@ public class PlayerManager : MonoBehaviour
             return;
         }
         
-        m_InFlythrough = false;
+        m_InFlythrough = true;
 
         if (SystemInfo.deviceType == DeviceType.Handheld)
         {
