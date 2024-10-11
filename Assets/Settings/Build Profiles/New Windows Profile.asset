@@ -18,17 +18,17 @@ MonoBehaviour:
   m_PlatformId: 4e3c793746204150860bf175a9a41a05
   m_PlatformBuildProfile:
     rid: 6259035057835999237
-  m_OverrideGlobalSceneList: 0
+  m_OverrideGlobalSceneList: 1
   m_Scenes:
   - m_enabled: 0
     m_path: Assets/SharedAssets/Benchmark/BenchmarkScene.unity
-  - m_enabled: 1
+  - m_enabled: 0
     m_path: Assets/Scenes/Terminal/TerminalScene.unity
   - m_enabled: 1
     m_path: Assets/Scenes/Oasis/OasisScene.unity
-  - m_enabled: 1
+  - m_enabled: 0
     m_path: Assets/Scenes/Garden/GardenScene.unity
-  - m_enabled: 1
+  - m_enabled: 0
     m_path: Assets/Scenes/Cockpit/CockpitScene.unity
   m_ScriptingDefines: []
   m_PlayerSettingsYaml:
